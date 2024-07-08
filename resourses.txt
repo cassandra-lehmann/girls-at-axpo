@@ -1,0 +1,2 @@
+Learning Pandas: https://github.com/TirendazAcademy/PANDAS-TUTORIAL/blob/main/02-Series%20Data%20Structure.ipynb
+Data Sources on Kaggle: https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets
